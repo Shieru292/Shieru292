@@ -53,3 +53,5 @@
 - 🐦 Twitter (currently X): [@Shieru77417517](https://x.com/Shieru77417517)
 - 💬 Discord: [@shieru292](https://discord.com/users/763778128052879370)
 - 🎵 osu!: [Shieru292](https://osu.ppy.sh/users/32324214)
+- 📧 E-mail: [dev@shieru.net](mailto:dev@shieru.net)
+
