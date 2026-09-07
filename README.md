@@ -1,8 +1,9 @@
+<!-- ...ああ、こんにちは！わざわざソースまで見に来てどうしたんですか？ -->
+
 <div align="center">
 
-# 👋 Hi, I'm Shieru
+# 👋 Hiya!
 
-<strong>Student IT Engineer | Tech Lead @ Axcira</strong><br>
 何かを作ったり、Linuxデスクトップのカスタマイズをしたり、ゲームをしたりするのが好きです。
 
 </div>
@@ -19,10 +20,8 @@
 
 ### 🚀 About Me
 
-- 🎓 **Student IT Engineer**: 学業の傍ら、エンジニアとして活動中。
-- 🛠️ **Tech Lead @ Axcira**: チーム「Axcira」にて、技術選定や開発をリードしています。
 - 🐧 **Linux & Ricing**: デスクトップを自分好みにカスタマイズするのが好きです。
-- 🎮 **Hobby**: コーディングとゲーム。ローグライクゲームが好き。
+- 🎮 **Hobby**: コーディングとゲーム。ローグライクゲームが好き。あとosu!。
 
 ### 🛠️ Tech Stack
 
@@ -54,4 +53,3 @@
 - 💬 Discord: [@shieru292](https://discord.com/users/763778128052879370)
 - 🎵 osu!: [Shieru292](https://osu.ppy.sh/users/32324214)
 - 📧 E-mail: [dev@shieru.net](mailto:dev@shieru.net)
-
